@@ -22,17 +22,6 @@ The **File Sharing App Frontend** is a modern web interface built with **React.j
 
 ---
 
-## 🚀 **Live Demo**
-Check out the live version of the **File Sharing App** here:  
-[Live Demo](#)  
-*(Replace `#` with your deployed link)*
-
----
-
-## 📷 **Screenshots**
-![File Sharing App Screenshot](path_to_your_screenshot)  
-*(Replace `path_to_your_screenshot` with your actual image path)*
-
 ---
 
 ## 🛠️ **Technologies Used**
@@ -65,5 +54,5 @@ Check out the live version of the **File Sharing App** here:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/file-sharing-app.git
+   git clone [https://github.com/yourusername/file-sharing-app.git](https://github.com/jayeshgavale02/File-Sharing-App-Frontend.git)
    cd file-sharing-app
