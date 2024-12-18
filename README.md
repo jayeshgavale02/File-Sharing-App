@@ -1,4 +1,3 @@
-
 # 📁 **File Sharing App - Frontend**
 
 ## 📝 **Overview**
@@ -21,8 +20,10 @@ The **File Sharing App Frontend** is a modern web interface built with **React.j
    - Integrated with backend authentication to ensure secure file operations.
 
 ---
-## 🚀 **Backeend**
-*(Replace `#` with your deployed link)*
+
+## 🚀 **Related Repositories**
+- **Backend Repository**: [File Sharing App Backend](https://github.com/jayeshgavale02/File-Sharing-App-Backend.git)
+
 ---
 
 ## 🛠️ **Technologies Used**
@@ -30,6 +31,7 @@ The **File Sharing App Frontend** is a modern web interface built with **React.j
 - **Material-UI**: For components and layout.
 - **React Router**: For navigation between different views and pages.
 - **Toastify**: For real-time feedback with notifications.
+- **Axios**: For API requests to the backend.
 
 ---
 
@@ -54,5 +56,5 @@ The **File Sharing App Frontend** is a modern web interface built with **React.j
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/jayeshgavale02/File-Sharing-App-Frontend.git)
-   cd file-sharing-app
+   git clone https://github.com/jayeshgavale02/File-Sharing-App-Frontend.git
+   cd file-sharing-app-frontend
