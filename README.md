@@ -21,13 +21,13 @@ The **File Sharing App Frontend** is a modern web interface built with **React.j
    - Integrated with backend authentication to ensure secure file operations.
 
 ---
-
+## 🚀 **Backeend**
+*(Replace `#` with your deployed link)*
 ---
 
 ## 🛠️ **Technologies Used**
 - **React.js**: JavaScript library for building the user interface.
 - **Material-UI**: For components and layout.
-- **Axios**: For making API requests to the backend.
 - **React Router**: For navigation between different views and pages.
 - **Toastify**: For real-time feedback with notifications.
 
