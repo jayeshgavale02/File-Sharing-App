@@ -31,7 +31,6 @@ The **File Sharing App Frontend** is a modern web interface built with **React.j
 - **Material-UI**: For components and layout.
 - **React Router**: For navigation between different views and pages.
 - **Toastify**: For real-time feedback with notifications.
-- **Axios**: For API requests to the backend.
 
 ---
 
